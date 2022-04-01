@@ -40,7 +40,7 @@ export const HomePage = () => {
       <hr />
       <input
         type="text"
-        className="mb-2 form-control"
+        className="mb-3 form-control"
         placeholder="Buscar Pókemon"
         value={search}
         // onChange={ (event) => setSearch(event.target.value)}
