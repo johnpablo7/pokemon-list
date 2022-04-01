@@ -36,7 +36,7 @@ export const HomePage = () => {
 
   return (
     <div className="mt-5">
-      <h1>Listado de Pokémons</h1>
+      <h1>Listado de Pokémon</h1>
       <hr />
       <input
         type="text"
