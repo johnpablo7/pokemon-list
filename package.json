@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview --host"
+    "preview": "vite preview --host 0.0.0.0"
   },
   "dependencies": {
     "axios": "^0.26.1",
